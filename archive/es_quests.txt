@@ -1,29 +1,29 @@
-    //Summer 2015 "Second SN Operation" Quest
+    //Tarea del Verano del 2015 "Segunda Operacion SN"
     
     "280": {
         "code": "SN01",
-        "name": "Second SN strategy, Initial Operations",
-        "desc": "Clear the Summer 2015 Event Map 2"
+        "name": "Segunda Estrategia SN, Operaciones Iniciales",
+        "desc": "Finaliza el mapa 2 de evento del verano del 2015"
     },
     "620": {
         "code": "SN02",
-        "name": "Tidying Up the Arsenal",
-        "desc": " Scrap Equipment 5 times"
+        "name": "Poniendo en Orden El Arsenal",
+        "desc": "Desguaza piezas de equipamiento 5 veces"
     },
     "281": {
         "code": "SN03",
-        "name": "Carry Out the Patrol for Main Force's Route",
-        "desc": "Sink 6 abyssal sumbarines"
+        "name": "Llevar a Cabo la Patrulla por la Ruta de la Fuerza Principal",
+        "desc": "Hunde 6 Submarinos Abisales"
     },
     "158": {
         "code": "SN04",
-        "name": "Assign the Murata Squadron Torpedo Bomber to Akagi",
-        "desc": "Set Akagi as the Secretary Ship and equip her with Type 97 Torpedo Bomber (Murata Squadron)"
+        "name": "Asignar el Escuadrón Bombardero de Torpedos Murata a Akagi",
+        "desc": "Asigna a Akagi como el barco secretario y equípala con Bombardero de Torpedos Tipo 97 (Escuadrón Murata)"
     },
     "282": {
         "code": "SN05",
-        "name": "Snatch Away the Air Superiority in the Solomon Sea Area",
-        "desc": "Clear the Summer 2015 Event Map 4"
+        "name": "Arrebata la Superioridad Aérea en el Área del Mar de Salomón",
+        "desc": "Finaliza el mapa 4 de evento del verano del2015"
     },
     "159": {
         "code": "SN06",
